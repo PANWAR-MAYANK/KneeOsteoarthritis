@@ -78,4 +78,4 @@ We fine-tuned **four CNN models** and built an **ensemble architecture** to boos
 
 ## 📊 Acknowledgement
 
- We would like to express our sincere gratitude to** Dr. Gaurav Singal (Assistant Professor, Department of CSE, NSUT Delhi)** , for their continuous guidance and support throughout the project. Their expert advice and feedback were invaluable in refining the methodology and experimental setup.
+ We would like to express our sincere gratitude to **Dr. Gaurav Singal (Assistant Professor, Department of CSE, NSUT Delhi)** , for their continuous guidance and support throughout the project. Their expert advice and feedback were invaluable in refining the methodology and experimental setup.
